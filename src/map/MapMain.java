@@ -41,7 +41,6 @@ public class MapMain {
         System.out.println("### for ~ each 구문으로 회전");
         store.forEach((Integer key, String value) ->
                 System.out.println(key + ":" + value)
-                //dfdfsd
         );
     }
 }
