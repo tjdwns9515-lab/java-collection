@@ -1,8 +1,8 @@
 package collectionTest;
 
 import java.awt.*;
-import java.awt.List;
 import java.util.*;
+import java.util.List;
 
 public class CollectionMain {
     static void main(String[] args) {
